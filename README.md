@@ -39,4 +39,11 @@
 |   16  | 06/16 (Th) | Numerical data 2 |Problem set 28| [L29 note] |             |
 |   16  | 06/20 (Mon) | Final Exam (Open Notes), in class |  -      | - |    -         |
 
+## Office hours:Thursday 17:00 - 18:00 (email required) 
 
+## Overview 
+* Attendance will be marked by the submission of the problem set for each lecture. It should be submitted before the next class starting time. 
+* If the problem set is not submitted by the time, it will be assumed as you are absent.
+* Google accounts will be required (for Colab). 
+* The dates of Mid/Final exams can be changed depending on the pandemic/school situations. 
+* Depending on the COVID situation, this lecture can be changed to the live remote class. However, it will be the in-person class mainly. 
