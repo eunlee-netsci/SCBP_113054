@@ -47,3 +47,18 @@
 * Google accounts will be required (for Colab). 
 * The dates of Mid/Final exams can be changed depending on the pandemic/school situations. 
 * Depending on the COVID situation, this lecture can be changed to the live remote class. However, it will be the in-person class mainly. 
+* Mid exam 25%/ Final exam 25%/ Assignments 25%/ Attendance 20%/ Helpers 5%
+
+## Be sure 
+* HW can be solved with others. *BUT* you should list names of people who helped you and how they helped you. If not, there will be 50% of score reduction. 
+* It's same for the problem sets. 
+* Copying other's code will be scored zero. No excuse. 
+* Due date and time is not negotiable. 
+
+## Communicate via Slack 
+* address: https://join.slack.com/t/20221programming1/shared_invite/zt-14b50liia-5EJDCkVmXQp3oq_YRICoUg
+* (this address will be expired in 30 days) 
+* You can ask a quesion about the HW and problem sets to other class mates (I might not be slow to answer, so in that case use the office hour). 
+* Please list the people who helped you to solve the problem. 
+* The people who helped (normalized frequency) will get an additional 5% score for 'Helpers': The list of helpers will be counted right before the mid term and it will be reset. And it will be re-counted beteween mid-final exam period. 
+
