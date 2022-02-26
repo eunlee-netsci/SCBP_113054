@@ -35,8 +35,8 @@
 |   14 |     06/02 (Th) | Exploratory statistics & Plotting |Problem set 24| [L25 note]    |   [HW4] Due 6/6          |
 |   14 |     06/06 (Mon) | Web data collection & Data processing 1| Problem set 25| [L26 note]  |             |
 |   15 |     06/09 (Th) | Web data collection & Data processing 2 |Problem set 26| [L27 note]      |             |
-|   15 |     06/13 (Mon) | Numerical data 1 | Problem set 27  |  [L28 note]        |             |
-|   16  | 06/16 (Th) | Numerical data 2 |Problem set 28| [L29 note] |             |
+|   15 |     06/13 (Mon) | Numerical data 1 (Numpy) | Problem set 27  |  [L28 note]        |             |
+|   16  | 06/16 (Th) | Numerical data 2 (Numpy) |Problem set 28| [L29 note] |             |
 |   16  | 06/20 (Mon) | Final Exam (Open Notes), in class |  -      | - |    -         |
 
 ## Office hours:Thursday 17:00 - 18:00 (email required) 
