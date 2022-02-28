@@ -2,7 +2,7 @@
   * Fundamentals of Programming 1 (Python, PKNU, 2022-Srping semester) 
   * Mon 7-8 (15:00-16:50)/ Th 7-8 (15:00-16:50)
   * Lecture room: C24-334 or Zoom (Depending on the COVID situation) 
-  * Structure: 60~90 min learning + practice / 30~60 min self-solving (problem set)
+  * Structure: 60-90 min learning + practice / 30-60 min self-solving (problem set)
 
 ## Schedule 
 | Week | Date      | Topic                                                         | Attendance | Links | Assignments |
