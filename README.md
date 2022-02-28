@@ -2,6 +2,7 @@
   * Fundamentals of Programming 1 (Python, PKNU, 2022-Srping semester) 
   * Mon 7-8 (15:00-16:50)/ Th 7-8 (15:00-16:50)
   * Lecture room: C24-334 or Zoom (Depending on the COVID situation) 
+  * Structure: 60~90 min learning + practice / 30~60 min self-solving (problem set)
 
 ## Schedule 
 | Week | Date      | Topic                                                         | Attendance | Links | Assignments |
@@ -42,11 +43,12 @@
 ## Office hours:Thursday 17:00 - 18:00 (email required) 
 
 ## Overview 
-* Attendance will be marked by the submission of the problem set for each lecture. It should be submitted before the next class starting time. 
+* Attendance will be marked by the submission of the problem set for each lecture. It should be submitted by the end of the day of the corresponding class (No late submission allowed). 
 * If the problem set is not submitted by the time, it will be assumed as you are absent.
 * Google accounts will be required (for Colab). 
 * The dates of Mid/Final exams can be changed depending on the pandemic/school situations. 
 * Depending on the COVID situation, this lecture can be changed to the live remote class. However, it will be the in-person class mainly. 
+* There will be four Homeworks. 
 * Mid exam 25%/ Final exam 25%/ Assignments 25%/ Attendance 20%/ Helpers 5%
 
 ## Be sure 
