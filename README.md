@@ -3,6 +3,7 @@
   * Mon 7-8 (15:00-16:50)/ Th 7-8 (15:00-16:50)
   * Lecture room: C24-334 or Zoom (Depending on the COVID situation) 
   * Structure: 60-90 min learning + practice / 30-60 min self-solving (problem set)
+  * Google drive 초청 예정: 사용하는 email 로 LMS 업데이트. 
 
 ## Schedule 
 | Week | Date      | Topic                                                         | Attendance | Links | Assignments |
